@@ -1,7 +1,7 @@
 ---
 title: Description of a Testpage
 categories:
-- General
+- Test
 feature_image: ""
 ---
 
